@@ -18,6 +18,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Cyan accent color name application label. [CHAR LIMIT=50] -->
-    <string name="accent_color_cyan_overlay" translatable="false">Cyan</string>
+    <string name="accent_color_cyan_overlay" translatable="false">Blue/Yellow</string>
 </resources>
 
